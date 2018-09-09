@@ -381,6 +381,9 @@ font-style: normal;
   .main{
     overflow: hidden;
   }
+  .advantages-item:nth-child(4)>.advantages-item__img,.advantages-item:nth-child(4)>.advantages-item__title, .advantages-item:nth-child(4)>.advantages-item__text{
+  padding-left: 0px !important;
+  }
 }
 @media(max-width: 768px){
   .header-logo-text{
