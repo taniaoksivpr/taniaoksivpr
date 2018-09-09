@@ -387,7 +387,7 @@ font-style: normal;
     display: none;
   }
   .nav-main-wrapp{
-    height: 50px;
+    height: 45px;
   }
   .navbar-wrapper{
     background-color: rgba(0,0,0,1);
@@ -407,7 +407,7 @@ font-style: normal;
     z-index: 99;
   }
   .main{
-    margin-top: 50px;
+    margin-top: 45px;
     background: linear-gradient(105deg, rgba(0,0,0, .4) 60%,  rgba(255,255,255,.005)0%);
 
   }
