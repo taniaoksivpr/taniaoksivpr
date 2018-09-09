@@ -431,6 +431,9 @@ font-style: normal;
     width: fit-content;
 
   }
+  .navbar-nav>li{
+    width: 100%;
+  }
   .navbar-nav>li>a{
     border-left: none;
     width: 100%;
